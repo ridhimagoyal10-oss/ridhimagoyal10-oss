@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hey, I'm Ridhima Goyal! 👋
 
-<!--
-**ridhimagoyal10-oss/ridhimagoyal10-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm learning to build practical software solutions and strengthening my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 Learning Python and Data Structures & Algorithms
+* 👁️ Exploring Computer Vision and Artificial Intelligence
+* 📊 Interested in Data Analytics
+* 🚀 Building projects and learning through hands-on practice
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, C++, SQL
+**Web:** HTML, CSS
+**Libraries:** OpenCV, NumPy
+**Tools:** Git, GitHub
+
+### 🚀 Currently working on: 
+
+**Real-Time Face Detection**
+
+A computer vision application that detects faces through a webcam in real time.
+
+* Detects visible faces and draws bounding boxes.
+* Displays a live face counter.
+* Handles situations where no face is detected.
+
+**Technologies:** Python, OpenCV, dlib, NumPy
+
+### 🌱 Currently Learning
+
+* Python Development
+* Data Structures & Algorithms
+* Problem-Solving
+* Software Development Fundamentals
+
+### 🏆 Learning & Achievements
+
+* Python for Data Science — Infosys Springboard
+* Artificial Intelligence — Infosys Springboard
+* Data Analytics Job Simulation — Deloitte via Forage
+* Linux Fundamentals — Red Hat
+* Google Cloud Study Jam
+
+### 📫 Connect With Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/ridhima-goyal-b119b3379/)
+
+---
+
+⭐ Thanks for visiting my profile!
