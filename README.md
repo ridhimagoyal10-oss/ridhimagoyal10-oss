@@ -6,17 +6,15 @@ I'm learning to build practical software solutions and strengthening my programm
 
 * 🐍 Learning Python and Data Structures & Algorithms
 * 👁️ Exploring Computer Vision and Artificial Intelligence
-* 📊 Interested in Data Analytics
 * 🚀 Building projects and learning through hands-on practice
 
 ### 🛠️ Tech Stack
 
 **Languages:** Python, C++, SQL
 **Web:** HTML, CSS
-**Libraries:** OpenCV, NumPy
 **Tools:** Git, GitHub
 
-### 🚀 Currently working on: 
+### 🚀 Project 
 
 **Real-Time Face Detection**
 
